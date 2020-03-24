@@ -1,0 +1,169 @@
+{
+    "product": {
+
+        "eletroportateis": [
+            {
+                "name": "Máquina de Café Nespresso Essenza Mini C30 com Kit Boas Vindas - Silver",
+                "id": "13012796",
+                "price": "279,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1212287932" 
+            },
+            {
+                "name": "Fritadeira Sem Óleo Philco Air Fryer Jumbo Inox PFR06PI 5,5L – Preto/Inox",
+                "id": "12590176",
+                "price": "399,90",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1181818665" 
+            },
+            {
+                "name": "Torradeira Elétrica KitchenAid Artisan Empire Red com 7 níveis de Tostagem – Vermelha",
+                "id": "12002082",
+                "price": "399,90",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1141388261" 
+            },
+            {
+                "name": "Ferro a Vapor Black+Decker FX3060 Ceramic Gliss com Spray – Azul/Branco",
+                "id": "11901441",
+                "price": "79,90",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1128966951" 
+            },
+            {
+                "name": "Batedeira Planetária Britânia BBP520 com 11 Velocidades + Turbo – Vermelha",
+                "id": "11921760",
+                "price": "269,90",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1140155171" 
+            }
+        ],
+
+        "informatica": [
+            {
+                "name": "Notebook Positivo Quad Core 4GB 64GB SSD Tela 14” ...",
+                "id": "50004960",
+                "price": "1.399,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1174767944" 
+            },
+            {
+                "name": "Multifuncional Canon Pixma MG2410 - Impressora, Co...",
+                "id": "11822564",
+                "price": "149,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=865226094" 
+            },
+            {
+                "name": "Notebook Lenovo Dual Core 4GB 500GB Tela 15.6” Win...",
+                "id": "50004961",
+                "price": "1.799,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1195770032" 
+            },
+            {
+                "name": "Multifuncional Tanque de Tinta Epson EcoTank L3150...",
+                "id": "1067035179",
+                "price": "849,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1067035179" 
+            },
+            {
+                "name": "Notebook Dell Core i3-6006U 4GB 1TB Tela 15.6” Windows 10 Inspiron I15-3567-A10P",
+                "id": "906315043",
+                "price": "1.999,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=906315043" 
+            }
+        ],
+
+        "telefonia": [
+            {
+                "name": "iPhone 6s Apple com 3D Touch, iOS 13, Sensor Touch ID, Câmera iSight 12MP, Wi-Fi, 4G, GPS, Bluetooth e NFC, 32GB, Rose, Tela 4,7",
+                "id": "1246575062",
+                "price": "1.399,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1246575062" 
+            },
+            {
+                "name": "iPhone 6s Apple com 3D Touch, iOS 13, Sensor Touch ID, Câmera iSight 12MP, Wi-Fi, 4G, GPS, Bluetooth e NFC, 32GB, Cinza Espacial, Tela 4,7",
+                "id": "1246575195",
+                "price": "1.399,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1246575195" 
+            },
+            {
+                "name": "Smartphone Samsung Galaxy S9 Dual Chip, Android 8.0, Câmera 12MP, 4GB RAM e Processador Octa-Core, 128GB, Preto, Tela Infinita de 5,8",
+                "id": "906759625",
+                "price": "1.799,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=906759625" 
+            },
+            {
+                "name": "Smartphone Samsung Galaxy A71 Azul 128GB",
+                "id": "1245043913",
+                "price": "2.299,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1245043913" 
+            },
+            {
+                "name": "Smartphone Samsung Galaxy A51 Branco 128GB, Tela Infinita de 6.5",
+                "id": "1241816768",
+                "price": "1.799,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1241816768" 
+            }
+        ],
+
+        "games": [
+            {
+                "name": "Console Xbox One S 1TB - Jogo Battlefield V (Download via Xbox Live)",
+                "id": "1103599838",
+                "price": "1.999,90",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1103599838" 
+            },
+            {
+                "name": "Console Playstation 4 Slim 1TB Bundle 5 + 3 Jogos + 3 Meses de Playstation Plus",
+                "id": "1132473930",
+                "price": "2.599,89",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1132473930" 
+            },
+            {
+                "name": "Console Xbox One S 1TB + Jogo The Division 2 (Download via Xbox Live)",
+                "id": "1173274147",
+                "price": "1.699,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1173274147" 
+            },
+            {
+                "name": "Console Xbox One X 1TB - Preto",
+                "id": "870854312",
+                "price": "3.189,90",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=870854312" 
+            },
+            {
+                "name": "Console Playstation 4 Slim 1TB - Sony",
+                "id": "1263786161",
+                "price": "1.629,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1263786161" 
+            }
+        ],
+
+        "tv": [
+            {
+                "name": "Smart TV LED 50 UHD 4K Samsung 50RU7100 com Controle Remoto Único",
+                "id": "1197430396",
+                "price": "1.899,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1197430396" 
+            },
+            {
+                "name": "Smart TV LED 50 UHD 4K Philips 50PUG6513 com HDR, Processador Quad-core",
+                "id": "1022260025",
+                "price": "1.899,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1022260025" 
+            },
+            {
+                "name": "Smart TV LED 43 Full HD LG 43LM6300PSB ThinQ AI Inteligência Artificial com IoT",
+                "id": "1127391796",
+                "price": "1.499,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1127391796" 
+            },
+            {
+                "name": "Smart TV LED 43 UHD 4K Samsung 43RU7100 com Controle Remoto Único",
+                "id": "1197430380",
+                "price": "1.599,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1197430380" 
+            },
+            {
+                "name": "Smart TV LED 32 HD LG 32LM625BPSB ThinQ AI Inteligência Artificial com IoT, Virtual Surround Sound",
+                "id": "1127389962",
+                "price": "939,00",
+                "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1127389962" 
+            }
+        ]
+    }
+}
